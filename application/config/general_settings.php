@@ -1,0 +1,33 @@
+<?php
+defined("BASEPATH") OR exit("No direct script access allowed");
+$config["sitename"] = 'Mv';
+$config["logo"] = 'mv';
+$config["theme"] = 'default';
+$config["emailsite"] = "admin@mv.dicen.net";
+$config["freeWebsite"] = FALSE;
+$config["comments_moderation"] = FALSE;
+$config["confirmation_inscription"] = FALSE;
+$config["maintenance"] = FALSE;
+$config["maintenance_message"] = "Maintenance message";
+$config["facebook"] = "https://www.facebook.com/coffeetheme/";
+$config["twitter"] = "https://twitter.com/coffeetheme";
+$config["google"] = "https://plus.google.com/b/113675398586774502189/113675398586774502189";
+$config["terms"] = "about-us";
+$config["facebookPageName"] = "Coffee Theme";
+$config["facebookPageLink"] = "https://www.facebook.com/coffeetheme/";
+$config["clientId"] = "";
+$config["clientSecret"] = "";
+$config["facebook_app_id"] = "";
+$config["facebook_app_secret"] = "";
+$config["consumerKey"] = "";
+$config["consumerSecret"] = "";
+$config["mailchimpApi"] = '';
+$config["mailchimpList"] = '';
+$config["amazonApiKey"] = '';
+$config["amazonSecretKey"] = '';
+$config["amazonRegion"] = 'us-east-2';
+$config["amazonBucket"] = '';
+$config["amazonCloudFront"] = '';
+$config["amazonBrowserUpload"] = '0';
+$config["hidePromo"] = TRUE;
+?>
